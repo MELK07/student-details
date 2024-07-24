@@ -32,7 +32,7 @@
 
   `currentstatus [string]` - Required if `studcode` is not supplied. Must be 'current' or 'future' or 'past' or 'noncurrent'.
 
-  `studcode [string]` - Required if `currentstatus` is not supplied. Contains a list of Student Code(s) if supplied.
+  `stud_code [string]` - Required if `currentstatus` is not supplied. Contains a list of Student Code(s) if supplied.
 
 * **Success Response:**
 
